@@ -52,3 +52,9 @@ Distributed under the MIT License.
 - Firebase
 - Node.js
 - Flutter
+
+## Previews
+ <img alt="countries"
+    src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1713965437/i2c84djvt5p3gks0oazt.png" width="280px"/>
+ <img alt="cities"
+    src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1713965438/fbhi5czpnky8pfqhecpo.png" width="280px"/>
