@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199123694875",
+    "project_id": "smash-ad2bc",
+    "storage_bucket": "smash-ad2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199123694875:android:7683d3dc29a32e510e4fbe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_smash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIQ9cADjj0Nnq9ibUzjsk3tHqmCRlNEko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
