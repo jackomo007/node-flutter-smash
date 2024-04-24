@@ -32,9 +32,11 @@ flutter pub get
 ```
 
 ## Running the Application
-To run the application, start both the Node server and the Flutter frontend:
+### Set firestore credentials (For security purposes the credentials were removed)
+- Node: Set values at the file smash.json
+- Flutter: Set values at the end of the file firebase_options.dart
 
-### Import csv file to firestore
+### Run the Node Import csv file to firestore
 ```bash
 node import.js
 ```
